@@ -1,2 +1,4 @@
+
 git remote add origin https://github.com/Disems/test.git
-git push -u origin master
+git branch -M main
+git push -u origin main
